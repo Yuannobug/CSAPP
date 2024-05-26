@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\NJAU\CSAPP_code\Unit2\2.55-2.60\homework\homework\main.cpp(55,12): warning C4309: “初始化”: 截断常量值
+D:\NJAU\CSAPP_code\Unit2\2.55-2.60\homework\homework\main.cpp(58,11): warning C4309: “初始化”: 截断常量值
+  homework.vcxproj -> D:\NJAU\CSAPP_code\Unit2\2.55-2.60\homework\x64\Debug\homework.exe
